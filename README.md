@@ -11,5 +11,8 @@ Interactive notebook technology (e.g., Jupyter and RMarkdown notebooks) allows u
 ## Contributing to the Learning Journey Library
 Presently, contributions hosted by NCAI are limited to NOAA-centric projects to highlight AI/ML best practices and success stories. The tools used to curate notebooks are publically available to generate similarly structured material to benefit the broader Earth and environmental science community. Broad community adoption allows for a broader cross listing of community-centric learning resources.
 
+## Disclaimer
+This NCAI repository is a scientific product and is not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. All NCAI notebooks are provided on an 'as is' basis and the user assumes responsibility for its use. Any claims against the Department of Commerce or Department of Commerce bureaus stemming from the use of this NCAI repository will be governed by all applicable Federal law. Any reference to specific commercial products, processes, or services by service mark, trademark, manufacturer, or otherwise does not constitute or imply their endorsement, recommendation or favoring by the Department of Commerce. The Department of Commerce seal and logo, or the seal and logo of a DOC bureau, shall not be used in any manner to imply endorsement of any commercial product or activity by DOC or the United States Government.
+
 [^1]: [NOAA 2022 Science Report](https://sciencecouncil.noaa.gov/wp-content/uploads/2023/03/FINAL_2022-NOAA-Science-Report.pdf)
 [^2]: [NCAI 2021 Training Gap Assessment](https://www.noaa.gov/noaa-center-for-artificial-intelligence/noaa-center-for-artificial-intelligence/training-and-resources)
