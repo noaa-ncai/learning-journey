@@ -63,5 +63,5 @@ Launch all notebooks in the Learning Journey using Jupyter lab via Binder via th
 * [Chris Slocum, NOAA/STAR](https://www.star.nesdis.noaa.gov/star/Slocum_C.php)
 
 ## References
-[^1]: Razin, M. N., C. J. Slocum, J. A. Knaff, P. J. Brown, and M. M. Bell, 2022: Tropical Cyclone Precipitation, Infrared, Microwave, and Environmental Dataset (TC PRIMED). Bull. Amer. Met. Soc., Early Online Release. [https://doi.org/10.1175/BAMS-D-21-0052.1](https://doi.org/10.1175/BAMS-D-21-0052.1).
+[^1]: Razin, M. N., C. J. Slocum, J. A. Knaff, P. J. Brown, and M. M. Bell, 2023: Tropical Cyclone Precipitation, Infrared, Microwave, and Environmental Dataset (TC PRIMED). Bull. Amer. Met. Soc., 104, E1980–E1998, [https://doi.org/10.1175/BAMS-D-21-0052.1](https://doi.org/10.1175/BAMS-D-21-0052.1).
 [^2]: Slocum, C. J., M. N. Razin, J. A. Knaff, and S. P. Stow, 2022: Does ERA5 mark a new era for resolving the tropical cyclone environment? J. Climate., 35, 3547–3564, [https://doi.org/10.1175/JCLI-D-22-0127.1](https://doi.org/10.1175/JCLI-D-22-0127.1).
