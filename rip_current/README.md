@@ -4,7 +4,7 @@ This notebook explores binomial (two classes) classification modeling, using an 
 
 ## The Learning Journey Notebook
 
-This learning journey contains notebook on rip current predition:
+This learning journey contains notebook on rip current prediction:
 * [Classification Modeling for Hazardous Rip Current Prediction](Classification_Modeling_for_Hazardous_Rip_Current_Prediction_clean.ipynb)<br>
   [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/noaa-ncai/learning-journey/blob/main/rip_current/Classification_Modeling_for_Hazardous_Rip_Current_Prediction_clean.ipynb)<br>
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/noaa-ncai/learning-journey/blob/main/rip_current/Classification_Modeling_for_Hazardous_Rip_Current_Prediction_clean.ipynb)
