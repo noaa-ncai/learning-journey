@@ -13,7 +13,7 @@ This learning journey contains the following Echofish notebooks:
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/noaa-ncai/learning-journey/blob/main/echofish/Echofish_Chapter_2-Frequency_Differencing_with_L2_EK60_Data_clean.ipynb)
 * [Chapter 3: Geospatial Indexing](Echofish_Chapter_3-Geospatial_Indexing_clean.ipynb)<br>
   [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/noaa-ncai/learning-journey/blob/main/echofish/Echofish_Chapter_3-Geospatial_Indexing_clean.ipynb)<br>
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/noaa-ncai/learning-journey/blob/main/echofish/Echofish_Chapter_3-Geospatial_Indexing_clean.ipynbb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/noaa-ncai/learning-journey/blob/main/echofish/Echofish_Chapter_3-Geospatial_Indexing_clean.ipynb)
 
 ## Contributors
 - Rudy Klucik
