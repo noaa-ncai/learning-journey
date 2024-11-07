@@ -5,15 +5,15 @@ This multi-notebook Learning Journey demonstrates how to process Simrad EK60 (18
 ## The Learning Journey
 
 This learning journey contains the following Echofish notebooks:
-* [Chapter 1: Processing EK60 Data on AWS](Echofish_Chapter_1-Processing_EK60_Data_on_AWS_clean.ipynb)<br>
-  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/noaa-ncai/learning-journey/blob/main/echofish/Echofish_Chapter_1-Processing_EK60_Data_on_AWS_clean.ipynb)<br>
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/noaa-ncai/learning-journey/blob/main/echofish/Echofish_Chapter_1-Processing_EK60_Data_on_AWS_clean.ipynb)
-* [Chapter 2: Frequency Differencing with L2 EK60 Data](Echofish_Chapter_2-Frequency_Differencing_with_L2_EK60_Data_clean.ipynb)<br>
-  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/noaa-ncai/learning-journey/blob/main/echofish/Echofish_Chapter_2-Frequency_Differencing_with_L2_EK60_Data_clean.ipynb)<br>
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/noaa-ncai/learning-journey/blob/main/echofish/Echofish_Chapter_2-Frequency_Differencing_with_L2_EK60_Data_clean.ipynb)
-* [Chapter 3: Geospatial Indexing](Echofish_Chapter_3-Geospatial_Indexing_clean.ipynb)<br>
-  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/noaa-ncai/learning-journey/blob/main/echofish/Echofish_Chapter_3-Geospatial_Indexing_clean.ipynb)<br>
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/noaa-ncai/learning-journey/blob/main/echofish/Echofish_Chapter_3-Geospatial_Indexing_clean.ipynb)
+* [Chapter 1: Processing EK60 Data on AWS](Echofish_Chapter_1_Processing_EK60_Data_on_AWS_clean.ipynb)<br>
+  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/noaa-ncai/learning-journey/blob/main/echofish/Echofish_Chapter_1_Processing_EK60_Data_on_AWS_clean.ipynb)<br>
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/noaa-ncai/learning-journey/blob/main/echofish/Echofish_Chapter_1_Processing_EK60_Data_on_AWS_clean.ipynb)
+* [Chapter 2: Frequency Differencing with L2 EK60 Data](Echofish_Chapter_2_Frequency_Differencing_with_L2_EK60_Data_clean.ipynb)<br>
+  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/noaa-ncai/learning-journey/blob/main/echofish/Echofish_Chapter_2_Frequency_Differencing_with_L2_EK60_Data_clean.ipynb)<br>
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/noaa-ncai/learning-journey/blob/main/echofish/Echofish_Chapter_2_Frequency_Differencing_with_L2_EK60_Data_clean.ipynb)
+* [Chapter 3: Geospatial Indexing](Echofish_Chapter_3_Geospatial_Indexing_clean.ipynb)<br>
+  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/noaa-ncai/learning-journey/blob/main/echofish/Echofish_Chapter_3_Geospatial_Indexing_clean.ipynb)<br>
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/noaa-ncai/learning-journey/blob/main/echofish/Echofish_Chapter_3_Geospatial_Indexing_clean.ipynb)
 
 ## Contributors
 - Rudy Klucik
