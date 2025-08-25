@@ -5,9 +5,9 @@ This notebook covers the process of training and validating the random forest re
 ## The Learning Journey Notebook
 
 This learning journey contains a notebook on wind profile prediction:
-* [Training Random Forest Regression model for NOAAOffshoreWindProfiles-USA](OffshoreWindProfilesNotebookRevised.ipynb)<br>
-  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/noaa-ncai/learning-journey/blob/main/offshore_wind_profiles/OffshoreWindProfilesNotebookRevised.ipynb)<br>
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/noaa-ncai/learning-journey/blob/main/offshore_wind_profiles/OffshoreWindProfilesNotebookRevised.ipynb)
+* [Training Random Forest Regression model for NOAAOffshoreWindProfiles-USA](OffshoreWindProfilesNotebook.ipynb)<br>
+  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/noaa-ncai/learning-journey/blob/main/offshore_wind_profiles/OffshoreWindProfilesNotebook.ipynb)<br>
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/noaa-ncai/learning-journey/blob/main/offshore_wind_profiles/OffshoreWindProfilesNotebook.ipynb)
 
 ## Contributors
 - James Frech
