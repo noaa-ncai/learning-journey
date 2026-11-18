@@ -1,21 +1,21 @@
 # Tropical Cyclone PRecipitation, Infrared, Microwave, and Environmental Dataset Learning Journey
 
-The Tropical Cyclone Precipitation, Infrared, Microwave, and Environmental Dataset (TC PRIMED) Learning Journey provides users with interactive documentation for the dataset as well as examples of artificial intelligence (AI) and machine learning applications.
+The Tropical Cyclone Precipitation, Infrared, Microwave, and Environmental Dataset (TC PRIMED) Learning Journey provides users with interactive documentation for the dataset as well as examples of machine learning (ML) applications.
 
 ## TC PRIMED
 
-TC PRIMED aims to ameliorate the issue of disparate data sources by consolidating forecast products from various data sources into a single repository. Centered around satellite passive microwave observations of tropical cyclones, TC PRIMED contains over 197,000 overpasses of 2,300 global tropical cyclones from 1998 to 2021. The dataset includes
+TC PRIMED aims to ameliorate the issue of disparate data sources by consolidating forecast products from various data sources into a single repository. Centered around satellite passive microwave observations of tropical cyclones, TC PRIMED contains over 242,000 overpasses of 3,552 global tropical cyclones from 1987 to 2025. The dataset includes
 * NOAA National Weather Service National Hurricane Center and Central Pacific Hurricane Center and Department of Defense Joint Typhoon Warning Center global tropical cyclone characteristics from the best-track database
 * Multi-agency inter-calibrated, multi-channel microwave brightness temperatures
 * Goddard Profiling Algorithm (GPROF) retrieved rainfall
 * Geostationary satellite infrared imagery
 * ECMWF fifth-generation reanalysis (ERA5) product fields and derived environmental diagnostics
 * TRMM/GPM precipitation radar variables
-* More detail about TC PRIMED is available on the [project page](https://rammb-data.cira.colostate.edu/tcprimed/) and two publications [^1] [^2].
+More detail about TC PRIMED is available on the [project page](https://rammb-data.cira.colostate.edu/tcprimed/) and two publications [^1] [^2], with the official dataset repository available from the NOAA National Centers for Environmental Information (NCEI)[^3].
 
 ## Learning Journey concept
 
-A Learning Journey is a series of modules that use interactive notebook open-science technology (e.g., Jupyter notebooks). The Learning Journey concept originated with the [NOAA Center for Artificial Intelligence](https://www.noaa.gov/noaa-center-for-artificial-intelligence/noaa-center-for-artificial-intelligence) as a means by which to allow the NOAA workforce and public to interact with AI-ready datasets and AI applications. In a Learning Journey, the user can choose an appropriate path based on their familiarity with AI techniques or specific data.
+A Learning Journey is a series of modules that use interactive notebook open-science technology (e.g., Jupyter notebooks). The Learning Journey concept originated with the [NOAA Center for Artificial Intelligence](https://www.noaa.gov/noaa-center-for-artificial-intelligence/noaa-center-for-artificial-intelligence) as a means by which to allow the NOAA workforce and public to interact with ML-ready datasets and ML applications. In a Learning Journey, the user can choose an appropriate path based on their familiarity with ML techniques or specific data.
 
 ## TC PRIMED Learning Journey
 This set of learning journey notebooks is divided into the following chapters:
@@ -65,3 +65,5 @@ Launch all notebooks in the Learning Journey using Jupyter lab via Binder via th
 ## References
 [^1]: Razin, M. N., C. J. Slocum, J. A. Knaff, P. J. Brown, and M. M. Bell, 2023: Tropical Cyclone Precipitation, Infrared, Microwave, and Environmental Dataset (TC PRIMED). Bull. Amer. Met. Soc., 104, E1980–E1998, [https://doi.org/10.1175/BAMS-D-21-0052.1](https://doi.org/10.1175/BAMS-D-21-0052.1).
 [^2]: Slocum, C. J., M. N. Razin, J. A. Knaff, and S. P. Stow, 2022: Does ERA5 mark a new era for resolving the tropical cyclone environment? J. Climate., 35, 3547–3564, [https://doi.org/10.1175/JCLI-D-22-0127.1](https://doi.org/10.1175/JCLI-D-22-0127.1).
+[^3]: Razin, M. N., C. J. Slocum, J. A. Knaff, and P. J. Brown, 2024: Tropical Cyclone Precipitation, Infrared, Microwave, and Environmental Dataset (TC PRIMED), v1.1, NOAA National Centers for Environmental Information. [https://doi.org/10.25921/dmy1-0595](https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdc:C01685/html).
+
